@@ -13,7 +13,7 @@ Também possuo habilidades técnicas na área de Administração.
 ##  📞 Onde entrar em contato comigo
 
 <p align="left">
-  <a href="https://github.com/bryansoaresdev">
+  <a href="https://github.com/bryansoaresdev?tab=repositories">
     <img src="https://img.shields.io/badge/GitHub-BRYANSOARESDEV-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://w.app/m0asnj">
