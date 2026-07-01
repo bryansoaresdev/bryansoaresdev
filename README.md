@@ -41,6 +41,11 @@
 
 </a>
 
+<a href="https://www.linkedin.com/in/bryan-soares-13761a411/">
+<img src="https://img.shields.io/badge/GitHub-Bryan Soares-181717?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
 <a href="https://w.app/m0asnj">
 <img src="https://img.shields.io/badge/WhatsApp-+5511962606110-25D366?style=for-the-badge&logo=whatsapp"/>
 
@@ -101,26 +106,6 @@
 
 ---
 
-# 🏆 Conquistas
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=bryansoaresdev&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
----
-
-# 🐍 Contribuições
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/bryansoaresdev/bryansoaresdev/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
 # 💡 Filosofia
 
 > *"Uma das condições para a vida valer a pena é, justamente, ela ser decidida por quem a vive, e não em seu lugar."*
@@ -132,7 +117,5 @@ Acredito que evolução é construída diariamente através do estudo, da práti
 <div align="center">
 
 ### 🤝 Sempre aberto a novas oportunidades, parcerias e projetos.
-
-⭐ Se gostou de algum projeto, deixe uma estrela!
 
 </div>
