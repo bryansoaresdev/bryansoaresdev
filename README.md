@@ -1,4 +1,4 @@
-# Hi Olá, seja bem vindo ao meu GitHub, me chamo Bryan Soares!👋🏼
+# Olá, seja bem vindo ao meu GitHub, me chamo Bryan Soares!👋🏼
 
  👨🏼‍💻 **Desenvolvedor web em formação | HTML | CSS | PHP | JavaScript | SQL | Node & React.**  
  -  Sou Brasileiro, residente da cidade de Suzano-SP.
