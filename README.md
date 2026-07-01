@@ -4,6 +4,7 @@
 🇧🇷 Brazil
 
 **Desenvolvo**: Sites web escaláveis, protótipos funcionais e banco de dados.
+
 **Ponto forte**: Desenvolvimento de sites com interface moderna e animações chamativas.
 
 Também possuo habilidades técnicas na área de Administração.
