@@ -10,10 +10,6 @@
 
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=bryansoaresdev&style=for-the-badge&color=blue"/>
-</p>
-
 ---
 
 ## 👨🏼‍💻 Sobre mim
