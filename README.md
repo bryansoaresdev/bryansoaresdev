@@ -26,7 +26,7 @@
 - Banco de dados
 - Protótipos funcionais
 
-✨ Meu diferencial é desenvolver interfaces modernas com animações elegantes e excelente experiência para o usuário.
+ Ponto forte: **Desenvolvimento de interfaces modernas e com animações chamativas.**
 
 📚 Também possuo conhecimentos técnicos na área de Administração.
 
