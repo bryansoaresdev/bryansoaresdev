@@ -3,8 +3,8 @@
  👨🏼‍💻 **Desenvolvedor web em formação | HTML | CSS | PHP | JavaScript | SQL | Node & React.**  
  -  Sou Brasileiro, residente da cidade de Suzano-SP.
 
-**Desenvolvo**: Sites web escaláveis, protótipos funcionais e banco de dados.
-**Ponto forte**: Desenvolvimento de sites com interface moderna e animações chamativas.
+Desenvolvo: **Sites web escaláveis, protótipos funcionais e banco de dados.**
+Ponto forte: **Desenvolvimento de sites com interface moderna e animações chamativas.**
 
  Também possuo habilidades técnicas na área de Administração.
 
