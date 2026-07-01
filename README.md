@@ -41,9 +41,8 @@
 
 </a>
 
-<a href="https://www.linkedin.com/in/bryan-soares-13761a411/">
-<img src="https://img.shields.io/badge/GitHub-Bryan Soares-181717?style=for-the-badge&logo=linkedin"/>
-
+<a href="https://www.linkedin.com/in/bryan-soares-13761a411/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Bryan%20Soares-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://w.app/m0asnj">
